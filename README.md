@@ -48,7 +48,7 @@ the **vehicle weight**, **spoiler angle**, and **All Wheel Drive** (AWD) have p-
 
 3.  Because the r-squared value in this model is 0.7149 , 71% of all mpg predictions will be determined by this model. Therefore multiple regression model **does predict mpg of MechaCar prototypes effectively**. 
 
-If we remove the independent variables (vehicle weight, spoiler angle, and All Wheel Drive), the predictability does decrease, the r-squared value would fall from 0.7149 to 0.674.
+When the independent variables (vehicle weight, spoiler angle, and All Wheel Drive) are removed the predictability decreases and r-squared value decreases from 0.7149 to 0.674.
 
 ![name-of-you-image](Resources/Images/Image2.png)
 
